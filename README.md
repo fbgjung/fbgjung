@@ -4,15 +4,15 @@
 
 ### 💎 SKILLS
 ---
-#### strong
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,css,html)](https://skillicons.dev)
+#### Main
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,css,html)](https://skillicons.dev)
 
 
-#### knowledge
-[![My Skills](https://skillicons.dev/icons?i=kotlin,js,ts,spring,react,mongodb,redis)](https://skillicons.dev)
+#### Knowledge
+[![My Skills](https://skillicons.dev/icons?i=kotlin,js,ts,react,mongodb,redis)](https://skillicons.dev)
 
 
-#### etc
+#### Etc
 [![My Skills](https://skillicons.dev/icons?i=git,figma,notion,vscode,idea)](https://skillicons.dev)
 
 

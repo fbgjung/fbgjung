@@ -1,15 +1,12 @@
 ### 💎 SKILLS
----
-#### Main
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,css,html)](https://skillicons.dev)
 
 
-#### Knowledge
-[![My Skills](https://skillicons.dev/icons?i=kotlin,js,ts,react,mongodb,redis)](https://skillicons.dev)
+#### Front-End
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,nextjs)](https://skillicons.dev)
 
+#### Back-End
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,)](https://skillicons.dev)
 
-#### Etc
-[![My Skills](https://skillicons.dev/icons?i=git,figma,notion,vscode,idea)](https://skillicons.dev)
 
 
 
